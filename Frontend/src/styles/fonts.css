@@ -1,0 +1,19 @@
+/* Choose ONE of the following font imports by uncommenting it */
+
+/* CURRENT: Inter (Neutral & Versatile) */
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap'); */
+
+/* OPTION 1: IBM Plex Sans (Technical & Modern) */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+/* OPTION 2: Work Sans (Clean & Contemporary) */
+/* @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap'); */
+
+/* OPTION 3: DM Sans (Geometric & Precise) */
+/* @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap'); */
+
+/* OPTION 4: Manrope (Rounded & Professional) */
+/* @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap'); */
+
+/* OPTION 5: Plus Jakarta Sans (Elegant & Modern) */
+/* @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap'); */

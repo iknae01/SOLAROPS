@@ -1,0 +1,26 @@
+# Model files (too large for GitHub)
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Database & credentials
+ca.pem
+db.py
+solar.db
+
+# Uploads folder
+uploads/
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.cache/
+
+# OS
+.DS_Store
+Thumbs.db
